@@ -2,10 +2,6 @@
   "name": "meetup-prototype-starter",
   "version": "1.1.2",
   "description": "Boilerplate for making prototypes with Meetup data",
-  // "repository": {
-  //   "type": "git",
-  //   "url": ""
-  // },
   "devDependencies": {
     "bower": "1.4.1",
     "gimme": "git+ssh://git@github.com:meetup/gimme",
@@ -22,6 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "grunt-svginjector": "^0.1.1",
-    "grunt-svgstore": "^0.5.0"
+    "grunt-svgstore": "^0.5.0",
+    "meetup-swatches": "^3.2.5"
   }
 }

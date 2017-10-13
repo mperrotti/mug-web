@@ -15,8 +15,8 @@
     "jquery": null,
     "moment": null,
     "ractive": null,
-    "ractive-load": null,
-    "rlite": null,
+    "ractive-load": "0.5.2",
+    "rlite": "1.0.91",
     "jquery.cookie": null,
     "jquery-autosize": null,
     "jquery-waypoints": "~2"
